@@ -5,7 +5,7 @@ function Navbar() {
     <div className="container-fluid nav-bar px-0 px-lg-4 py-lg-0">
       <div className="container" style={{ padding: "15px 0" }}>
         <nav className="navbar navbar-expand-lg navbar-light">
-          <a href="#" className="navbar-brand p-0">
+          <a href="https://example.com" className="navbar-brand p-0">
             <h1 className="text-primary mb-0">
               <i className="fab fa-slack me-2"></i> Consult.io
             </h1>
@@ -52,7 +52,7 @@ function Navbar() {
                 Blog
               </a>
               <div className="nav-item dropdown">
-                <a href="#" className="nav-link" data-bs-toggle="dropdown">
+                <a href="https://example.com" className="nav-link" data-bs-toggle="dropdown">
                   <span className="dropdown-toggle">Pages</span>
                 </a>
                 <div className="dropdown-menu">
@@ -86,7 +86,7 @@ function Navbar() {
                   <i className="fas fa-search"></i>
                 </button>
                 <a
-                  href="#"
+                  href="https://example.com"
                   className="btn btn-primary rounded-pill py-2 px-4 ms-3 flex-shrink-0"
                 >
                   Get a Quote
@@ -96,7 +96,7 @@ function Navbar() {
           </div>
           <div className="d-none d-xl-flex flex-shrink-0 ps-4">
             <a
-              href="#"
+              href="https://example.com"
               class="btn btn-lg-square rounded-circle   position-relative wow animate__animated animate__tada"
               data-wow-delay=".9s"
             >
