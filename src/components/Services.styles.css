@@ -1,0 +1,79 @@
+.service-item {
+  transition: background-color 0.3s ease; /* Smooth background color change */
+  border-radius: 10px;
+}
+
+.service-img {
+  position: relative; /* Make this container relative for positioning the icon */
+  display: inline-block; /* Adjust to fit the image and content */
+  background-color: transparent;
+}
+
+.service-img img {
+  display: block; /* Removes bottom space/gap */
+  width: 100%; /* Adjust based on your design */
+  height: auto; /* Keeps aspect ratio */
+  /* background-image: linear-gradient(to bottom, #f2f5f9 50%, black 50%);
+  -webkit-transition: background-position 1s;
+  -moz-transition: background-position 1s;
+  transition: background-position 1s; */
+}
+
+.service-icon {
+  position: absolute; /* Use flexbox for centering */
+  margin-top: -70px;
+  margin-left: 190px;
+  justify-content: center; /* Horizontally center the icon */
+  border-radius: 10px 10px 0 0;
+  align-items: center;
+  background-color: #014ca1;
+  width: 100px;
+  background-position: bottom;
+  width: 70px;
+  height: 70px;
+  background-size: 100% 200%;
+  background-image: linear-gradient(to top, #f2f5f9 50%, #014ca1 50%);
+  -webkit-transition: background-position 1s;
+  -moz-transition: background-position 1s;
+  transition: background-position 1s;
+}
+
+.service-item:hover .service-img {
+  background-color: #ccdff4;
+  background-position: 0 -100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.service-item:hover .service-icon {
+  background-position: 0 -100%;
+  background-color: #014ca1;
+}
+
+.service-item:hover {
+  background-color: #014ca1;
+  border-radius: 10px;
+}
+
+.service-item:hover .mb-4 {
+  color: white;
+}
+
+.service-item:hover .rounded-pill {
+  background-color: white;
+  color: blue;
+}
+
+.service-item:hover .service-content {
+  background-position: 0 -100%;
+  background-color: #014ca1;
+  border-radius: 10px;
+}
+
+.service-content {
+  background-color: #f2f5f9;
+  background-position: top;
+  /* background-image: linear-gradient(to bottom, #014ca1 50%, #014ca1 50%); */
+  -webkit-transition: background-position 1s;
+  -moz-transition: background-position 1s;
+  transition: background-position 1s;
+}

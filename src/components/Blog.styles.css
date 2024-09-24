@@ -1,0 +1,245 @@
+.container {
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.team-item .team-img {
+  position: relative;
+  overflow: hidden;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.team .team-item .team-img::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 0;
+  top: 0;
+  left: 0;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  transition: 0.5s;
+}
+
+.team .team-item:hover .team-img::after {
+  height: 100%;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.p-4 {
+  padding: 1.5rem !important;
+}
+
+.team-item .team-title {
+  color: var(--bs-white);
+  background: var(--bs-primary);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  transition: 0.5s;
+}
+
+.team .team-item:hover .team-title {
+  background: var(--bs-dark);
+}
+
+img {
+  vertical-align: middle;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.rounded-top {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.team-item .team-img img {
+  transition: 0.5s;
+}
+
+.team .team-item:hover .team-img img {
+  transform: scale(1.1);
+}
+
+.team-item .team-img .team-icon {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  margin-bottom: -100%;
+  transition: 0.5s;
+  z-index: 9;
+}
+
+.team .team-item:hover .team-img .team-icon {
+  margin-bottom: 0;
+}
+
+.team-item .team-title h4 {
+  color: var(--bs-white);
+}
+
+a {
+  color: #015fc9;
+  text-decoration: none;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #787878;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid rgba(0, 0, 0, 0);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #015fc9;
+  border-color: #015fc9;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+
+.rounded-pill {
+  border-radius: 50rem !important;
+}
+
+.btn {
+  font-weight: 600;
+  transition: 0.5s;
+}
+
+.btn-sm-square {
+  width: 34px;
+  height: 34px;
+}
+
+.btn-sm-square {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: normal;
+}
+
+.btn.btn-primary {
+  color: var(--bs-white);
+  border: none;
+}
+
+a:hover {
+  color: #014ca1;
+}
+
+.btn:hover {
+  color: #787878;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0151ab;
+  border-color: #014ca1;
+}
+
+.btn.btn-primary:hover {
+  background: var(--bs-dark);
+  color: var(--bs-white);
+}
+
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+
+.fab {
+  font-family: "Font Awesome 5 Brands";
+}
+
+.fab {
+  font-weight: 400;
+}
+
+.fa-facebook-f:before {
+  content: "\f39e";
+}
+
+.fa-twitter:before {
+  content: "\f099";
+}
+
+.fa-linkedin-in:before {
+  content: "\f0e1";
+}
+
+.fa-instagram:before {
+  content: "\f16d";
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+    opacity: 0;
+    transform: translate3d(0px, 100%, 0px);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-Pqyqj.style-Pqyqj {
+  max-width: 800px;
+  visibility: visible;
+  animation-delay: 0.2s;
+  animation-name: fadeInUp;
+}
+#style-79mH6.style-79mH6 {
+  visibility: visible;
+  animation-delay: 0.2s;
+  animation-name: fadeInUp;
+}
+#style-8SMJL.style-8SMJL {
+  visibility: visible;
+  animation-delay: 0.4s;
+  animation-name: fadeInUp;
+}
+#style-gpgxQ.style-gpgxQ {
+  visibility: visible;
+  animation-delay: 0.6s;
+  animation-name: fadeInUp;
+}
+#style-BQrog.style-BQrog {
+  visibility: visible;
+  animation-delay: 0.8s;
+  animation-name: fadeInUp;
+}

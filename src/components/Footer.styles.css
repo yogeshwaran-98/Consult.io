@@ -1,0 +1,52 @@
+.hover-zoom {
+  transition: transform 0.5s ease, opacity 0.5s ease;
+  opacity: 1;
+}
+
+.footer-instagram:hover .hover-zoom {
+  transform: scale(1.1);
+  opacity: 0.7;
+}
+
+.fas {
+  color: white;
+}
+
+.footer-instagram:hover .fas {
+  font-weight: bold;
+
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+  color: black;
+}
+
+.btn-md-square {
+  background-color: white;
+}
+
+.btn-md-square:hover {
+  background-color: #015fc9;
+}
+
+.btn-md-square:hover .fa-facebook-f,
+.btn-md-square:hover .fa-twitter,
+.btn-md-square:hover .fa-instagram,
+.btn-md-square:hover .fa-linkedin-in {
+  color: white !important;
+}
+
+.btn-lg-square {
+  background-color: white;
+}
+
+.btn-lg-square:hover {
+  background-color: #015fc9;
+}
+
+.btn-lg-square:hover .fa-phone-alt {
+  color: white !important;
+}
+
+.testimonial-item {
+  background-color: #f2f5f9;
+}

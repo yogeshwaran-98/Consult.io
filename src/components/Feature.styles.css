@@ -1,0 +1,74 @@
+.feature-item {
+  transition: background-color 0.3s ease;
+  background-color: white;
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.feature-item:hover {
+  background-color: #0461ca;
+}
+
+.feature-icon {
+  display: flex;
+  background-color: #f2f5f9;
+  width: 100px;
+  margin-height: 400px;
+  border-radius: 0 0 10px 10px;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+  position: relative;
+}
+
+.feature-icon::before {
+  content: "";
+  position: absolute;
+  top: 0%;
+  left: 0;
+  right: 0;
+  height: 100%;
+  background-color: transparent;
+  transition: top 0.5s ease;
+  z-index: 0;
+  margin-top: -20px;
+}
+
+.feature-item:hover .feature-icon::before {
+  top: 21%;
+  background-color: black;
+  border-radius: 0 0 10px 10px;
+}
+
+.icon {
+  color: #015fc9;
+}
+
+.feature-item:hover::after {
+  color: #015fc9;
+}
+
+.feature-item:hover .icon::before {
+  color: white;
+}
+
+.feature-item:hover h4,
+.feature-item:hover p,
+.feature-item:hover .btn {
+  color: white;
+}
+
+.feature-item .btn {
+  background-color: #0461ca;
+  color: #007bff;
+}
+
+.feature-item:hover .btn {
+  background-color: white;
+  color: #0461ca;
+}
+
+.feature-item:hover .feature-icon i {
+  z-index: 9;
+}
