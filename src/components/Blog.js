@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import image from "../images/carousel-2.png";
 import "./Blog.styles.css";
 
@@ -153,4 +153,5 @@ function Blog() {
   );
 }
 
-export default Blog;
+export default Blog; 
+*/
