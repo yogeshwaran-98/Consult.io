@@ -8,7 +8,7 @@ function Topbar() {
           <div className="col-lg-8 text-center text-lg-start mb-lg-0">
             <div className="d-flex flex-wrap">
               <div className="border-end border-primary pe-3">
-                <a href="#" className="text-muted small">
+                <a href="www.example.com" className="text-muted small">
                   <i className="fas fa-map-marker-alt text-primary me-2"></i>
                   Find A Location
                 </a>
@@ -24,22 +24,22 @@ function Topbar() {
           <div className="col-lg-4 text-center text-lg-end">
             <div className="d-flex justify-content-end">
               <div className="d-flex border-end border-primary pe-3">
-                <a className="btn p-0 text-primary me-3" href="#">
+                <a className="btn p-0 text-primary me-3" href="www.example.com">
                   <i className="fab fa-facebook-f"></i>
                 </a>
-                <a className="btn p-0 text-primary me-3" href="#">
+                <a className="btn p-0 text-primary me-3" href="www.example.com">
                   <i className="fab fa-twitter"></i>
                 </a>
-                <a className="btn p-0 text-primary me-3" href="#">
+                <a className="btn p-0 text-primary me-3" href="www.example.com">
                   <i className="fab fa-instagram"></i>
                 </a>
-                <a className="btn p-0 text-primary me-0" href="#">
+                <a className="btn p-0 text-primary me-0" href="www.example.com">
                   <i className="fab fa-linkedin-in"></i>
                 </a>
               </div>
               <div className="dropdown ms-3">
                 <a
-                  href="#"
+                  href="www.example.com"
                   className="dropdown-toggle text-dark"
                   data-bs-toggle="dropdown"
                 >
@@ -49,19 +49,19 @@ function Topbar() {
                   </small>
                 </a>
                 <div className="dropdown-menu rounded">
-                  <a href="#" className="dropdown-item">
+                  <a href="www.example.com" className="dropdown-item">
                     English
                   </a>
-                  <a href="#" className="dropdown-item">
+                  <a href="www.example.com" className="dropdown-item">
                     Bangla
                   </a>
-                  <a href="#" className="dropdown-item">
+                  <a href="www.example.com" className="dropdown-item">
                     French
                   </a>
-                  <a href="#" className="dropdown-item">
+                  <a href="www.example.com" className="dropdown-item">
                     Spanish
                   </a>
-                  <a href="#" className="dropdown-item">
+                  <a href="www.example.com" className="dropdown-item">
                     Arabic
                   </a>
                 </div>
