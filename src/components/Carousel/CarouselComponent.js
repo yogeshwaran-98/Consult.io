@@ -36,7 +36,7 @@ function CarouselComponent() {
                   <div className="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
                     <a
                       className="btn btn-light rounded-pill py-3 px-4 px-md-5 me-2 bg-white"
-                      href="#"
+                      href="https://example.com"
                     >
                       <i
                         className="fas fa-play-circle me-2 "
@@ -46,7 +46,7 @@ function CarouselComponent() {
                     </a>
                     <a
                       className="btn btn-dark rounded-pill py-3 px-4 px-md-5 ms-2 bg-black"
-                      href="#"
+                      href="https://example.com"
                     >
                       <span class="text-white">Learn More</span>
                     </a>
