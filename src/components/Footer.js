@@ -226,7 +226,7 @@ function Footer() {
                         <div>
                           <h4 class="text-white">Address</h4>
                           <p class="mb-0 text-secondary ">
-                            123 Street New York.USA
+                            Chennai , Tamil Nadu , India
                           </p>
                         </div>
                       </div>
@@ -238,7 +238,7 @@ function Footer() {
                         </div>
                         <div>
                           <h4 class="text-white">Mail Us</h4>
-                          <p class="mb-0 text-secondary">info@example.com</p>
+                          <p class="mb-0 text-secondary">support@consultio.com</p>
                         </div>
                       </div>
                     </div>
@@ -302,7 +302,7 @@ function Footer() {
                 <div class="d-flex flex-column ms-3 flex-shrink-0">
                   <span class="text-white">Call to Our Experts</span>
                   <a href="https://example.com">
-                    <span class="text-white">Free: + 0123 456 7890</span>
+                    <span class="text-white">+91 99999 99999</span>
                   </a>
                 </div>
               </div>
