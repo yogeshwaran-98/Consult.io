@@ -16,7 +16,7 @@ function Topbar() {
               <div className="ps-3">
                 <a href="mailto:example@gmail.com" className="text-muted small">
                   <i className="fas fa-envelope text-primary me-2"></i>
-                  youremail@gmail.com
+                  mail-us@consultio.com
                 </a>
               </div>
             </div>
