@@ -44,7 +44,7 @@ function Service() {
               </div>
               <div className="service-content p-4">
                 <div className="service-content-inner">
-                  <a href="#" className="d-inline-block h4 mb-4">
+                  <a href="www.example.com" className="d-inline-block h4 mb-4">
                     Strategic planning
                   </a>
                   <p className="mb-4">
@@ -53,7 +53,7 @@ function Service() {
                   </p>
                   <a
                     className="btn btn-primary rounded-pill py-2 px-4"
-                    href="#"
+                    href="www.example.com"
                   >
                     Read More
                   </a>
@@ -85,7 +85,7 @@ function Service() {
               </div>
               <div className="service-content p-4">
                 <div className="service-content-inner">
-                  <a href="#" className="d-inline-block h4 mb-4">
+                  <a href="www.example.com" className="d-inline-block h4 mb-4">
                     Market Research
                   </a>
                   <p className="mb-4">
@@ -94,7 +94,7 @@ function Service() {
                   </p>
                   <a
                     className="btn btn-primary rounded-pill py-2 px-4"
-                    href="#"
+                    href="www.example.com"
                   >
                     Read More
                   </a>
@@ -126,7 +126,7 @@ function Service() {
               </div>
               <div className="service-content p-4">
                 <div className="service-content-inner">
-                  <a href="#" className="d-inline-block h4 mb-4">
+                  <a href="www.example.com" className="d-inline-block h4 mb-4">
                     Financial Advisory
                   </a>
                   <p className="mb-4">
@@ -135,7 +135,7 @@ function Service() {
                   </p>
                   <a
                     className="btn btn-primary rounded-pill py-2 px-4"
-                    href="#"
+                    href="www.example.com"
                   >
                     Read More
                   </a>
@@ -167,7 +167,7 @@ function Service() {
               </div>
               <div className="service-content p-4">
                 <div className="service-content-inner">
-                  <a href="#" className="d-inline-block h4 mb-4">
+                  <a href="www.example.com" className="d-inline-block h4 mb-4">
                     Change Management
                   </a>
                   <p className="mb-4">
@@ -176,7 +176,7 @@ function Service() {
                   </p>
                   <a
                     className="btn btn-primary rounded-pill py-2 px-4"
-                    href="#"
+                    href="www.example.com"
                   >
                     Read More
                   </a>
@@ -188,7 +188,7 @@ function Service() {
             className="col-12 text-center wow animate__animated animate__fadeInUp"
             data-wow-delay="0.4s"
           >
-            <a className="btn btn-primary rounded-pill py-3 px-5" href="#">
+            <a className="btn btn-primary rounded-pill py-3 px-5" href="www.example.com">
               More Services
             </a>
           </div>
