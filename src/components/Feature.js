@@ -46,7 +46,7 @@ function Feature() {
               </p>
               <a
                 className="learn-more btn btn-primary rounded-pill py-2 px-4"
-                href="#"
+                href="https://example.com"
               >
                 Learn More
               </a>
@@ -72,7 +72,7 @@ function Feature() {
               </p>
               <a
                 className=" learn-more btn btn-primary rounded-pill py-2 px-4"
-                href="#"
+                href="https://example.com"
               >
                 Learn More
               </a>
@@ -98,7 +98,7 @@ function Feature() {
               </p>
               <a
                 className=" learn-more btn btn-primary rounded-pill py-2 px-4"
-                href="#"
+                href="https://example.com"
               >
                 Learn More
               </a>
@@ -124,7 +124,7 @@ function Feature() {
               </p>
               <a
                 className=" learn-more btn btn-primary rounded-pill py-2 px-4"
-                href="#"
+                href="https://example.com"
               >
                 Learn More
               </a>
