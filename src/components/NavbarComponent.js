@@ -116,7 +116,7 @@ function Navbar() {
             <div className="d-flex flex-column ms-3">
               <span>Call to Our Experts</span>
               <a href="tel:+ 0123 456 7890">
-                <span className="text-dark">Free: + 0123 456 7890</span>
+                <span className="text-dark">+91 99999 99999 </span>
               </a>
             </div>
           </div>
