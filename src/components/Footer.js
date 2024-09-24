@@ -28,7 +28,7 @@ function Footer() {
                     <div class="footer-btn d-flex">
                       <a
                         class="btn btn-md-square rounded-circle me-3  px-3 py-2"
-                        href="#"
+                        href="https://example.com"
                       >
                         <i
                           class="fa-brands fa-facebook-f"
@@ -37,7 +37,7 @@ function Footer() {
                       </a>
                       <a
                         class="btn btn-md-square rounded-circle me-3  px-3 py-2"
-                        href="#"
+                        href="https://example.com"
                       >
                         <i
                           class="fab fa-twitter"
@@ -46,7 +46,7 @@ function Footer() {
                       </a>
                       <a
                         class="btn btn-md-square rounded-circle me-3 px-3 py-2"
-                        href="#"
+                        href="https://example.com"
                       >
                         <i
                           class="fab fa-instagram"
@@ -55,7 +55,7 @@ function Footer() {
                       </a>
                       <a
                         class="btn btn-md-square rounded-circle me-0 px-3 py-2"
-                        href="#"
+                        href="https://example.com"
                       >
                         <i
                           class="fab fa-linkedin-in"
@@ -68,27 +68,27 @@ function Footer() {
                 <div class="col-md-6 col-lg-6 col-xl-3">
                   <div class="footer-item" style={{ lineHeight: "2.2" }}>
                     <h4 class="text-white mb-4">Useful Links</h4>
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="https://example.com">
                       <i class="fas fa-angle-right me-2  "></i>{" "}
                       <span class="text-white-50">About Us</span>
                     </a>
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="https://example.com">
                       <i class="fas fa-angle-right me-2"></i>
                       <span class="text-white-50">Features</span>
                     </a>
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="https://example.com">
                       <i class="fas fa-angle-right me-2"></i>
                       <span class="text-white-50">Services</span>
                     </a>
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="https://example.com">
                       <i class="fas fa-angle-right me-2"></i>
                       <span class="text-white-50">FAQ's</span>
                     </a>
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="https://example.com">
                       <i class="fas fa-angle-right me-2"></i>
                       <span class="text-white-50">Blogs</span>
                     </a>
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="https://example.com">
                       <i class="fas fa-angle-right me-2"></i>
                       <span class="text-white-50">Contact</span>
                     </a>
@@ -107,7 +107,7 @@ function Footer() {
                           />
                           <div class="footer-search-icon d-flex justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100">
                             <a
-                              href="img/instagram-footer-1.jpg"
+                              href="https://example.com"
                               data-lightbox="footerInstagram-1"
                               class="my-auto"
                             >
@@ -125,7 +125,7 @@ function Footer() {
                           />
                           <div class="footer-search-icon d-flex justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100">
                             <a
-                              href="img/instagram-footer-1.jpg"
+                              href="https://example.com"
                               data-lightbox="footerInstagram-1"
                               class="my-auto"
                             >
@@ -143,7 +143,7 @@ function Footer() {
                           />
                           <div class="footer-search-icon d-flex justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100">
                             <a
-                              href="img/instagram-footer-1.jpg"
+                              href="https://example.com"
                               data-lightbox="footerInstagram-1"
                               class="my-auto"
                             >
@@ -161,7 +161,7 @@ function Footer() {
                           />
                           <div class="footer-search-icon d-flex justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100">
                             <a
-                              href="img/instagram-footer-1.jpg"
+                              href="https://example.com"
                               data-lightbox="footerInstagram-1"
                               class="my-auto"
                             >
@@ -179,7 +179,7 @@ function Footer() {
                           />
                           <div class="footer-search-icon d-flex justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100">
                             <a
-                              href="img/instagram-footer-1.jpg"
+                              href="https://example.com"
                               data-lightbox="footerInstagram-1"
                               class="my-auto"
                             >
@@ -197,7 +197,7 @@ function Footer() {
                           />
                           <div class="footer-search-icon d-flex justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100">
                             <a
-                              href="img/instagram-footer-1.jpg"
+                              href="https://example.com"
                               data-lightbox="footerInstagram-1"
                               class="my-auto"
                             >
@@ -281,7 +281,7 @@ function Footer() {
               <div class="d-flex flex-shrink-0">
                 <div class="footer-btn">
                   <a
-                    href="#"
+                    href="https://example.com"
                     class="btn btn-lg-square rounded-circle   position-relative wow animate__animated animate__tada"
                     data-wow-delay=".9s"
                   >
@@ -301,7 +301,7 @@ function Footer() {
                 </div>
                 <div class="d-flex flex-column ms-3 flex-shrink-0">
                   <span class="text-white">Call to Our Experts</span>
-                  <a href="tel:+ 0123 456 7890">
+                  <a href="https://example.com">
                     <span class="text-white">Free: + 0123 456 7890</span>
                   </a>
                 </div>
