@@ -37,7 +37,7 @@ function About() {
               <p class="text-dark mb-4">
                 <i class="fa fa-check text-primary me-3"></i>Flexible Terms
               </p>
-              <a class="btn btn-primary rounded-pill py-3 px-5" href="#">
+              <a class="btn btn-primary rounded-pill py-3 px-5" href="https://example.com">
                 More Information
               </a>
             </div>
