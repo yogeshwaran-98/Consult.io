@@ -17,7 +17,7 @@ function Feature() {
         >
           <h4 className="text-primary">Our Features</h4>
           <h1 className="display-4 mb-4 fw-bold">
-            Insurance Provide you a Better Future
+            Consultation Secures Your Future
           </h1>
           <p className="mb-0">
             Consult.io offers tailored consulting solutions to drive growth and
