@@ -36,25 +36,25 @@ function Team() {
                 <div className="team-icon">
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-facebook-f"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-twitter"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-linkedin-in"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-0"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-instagram"></i>
                   </a>
@@ -80,25 +80,25 @@ function Team() {
                 <div className="team-icon">
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-facebook-f"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-twitter"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-linkedin-in"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-0"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-instagram"></i>
                   </a>
@@ -124,25 +124,25 @@ function Team() {
                 <div className="team-icon">
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-facebook-f"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-twitter"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-linkedin-in"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-0"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-instagram"></i>
                   </a>
@@ -168,25 +168,25 @@ function Team() {
                 <div className="team-icon">
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-facebook-f"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-twitter"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-2"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-linkedin-in"></i>
                   </a>
                   <a
                     className="btn btn-primary btn-sm-square rounded-pill mb-0"
-                    href=""
+                    href="www.example.com"
                   >
                     <i className="fab fa-instagram"></i>
                   </a>
